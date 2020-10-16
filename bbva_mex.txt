@@ -1,0 +1,10 @@
+['Me encanta! Puedo obtener el tipo de cambio rápidamente..   Puedo obtener el tipo de cambio rápidamente y me da tips financieros.',
+ 'BBVA el banco digital.   Excelente skill, puedes mantenerte al día de indicadores bancarios de inmediato. Se debería poder hacer parte de las rutinas y deberían agregar más funciones',
+ 'mala ubicacion de sucursales.   Solo reconoce algunos c.p. En la mayoria te dice que no hay sucursal. Ya da el tipo de cambio en compra y venta. Cuando ya no quieres ayuda, no reconoce los comandos no,ni alto, siempre responde que no entiende lo que deseas...',
+ 'Indispensable para usuarios BBVA Bancomer.   Un muy buen Skill para los usuarios de BBVA Bancomer, con servicios necesarios y eficientes.',
+ 'Interesante e inovador.   Desde la aplicación es super fácil e intuitivo, jamas pensé que podría interactuar así con un banco',
+ 'código postal.   no reconoce ninguna código postal para ubicar cajeros o sucursales.',
+ 'Me gusto.   Espero que pongan mas funciones',
+ 'pedir la información del tipo de cambio es un poco largo, incompleta e imprecisa.   Para pedir el tipo de cambio por ejemplo del dolar tienes que decir la frase completa y exacta,  por ejemplo: "Alexa, Pregunta a BBVA Bancomer por el tio de cambio del dolar" si no, no te da la información.  Preguntar por ejmplo: "Alexa, dame el tipo de cambio del dolar", te reponde que no entiende.Por otra parte la información del tipo de cambio que te da es el de COMPRA, solamente. Pero no te dice que es el valor de COMPRA. La mayoría de las veces nos interesa mas el precio de VENTA. Debería dar AMBAS informaciones y debería decir que tipo de cambio es el que está informando.Es buena, pero necesita mejorarse, para que sea mas sencillo y rápido de usar con las frases de pregunta, y con la precisión de las respuestas.',
+ 'malo malo y malo.   Ni reconoce bbva Cúando lo digo',
+ 'Falta Actualizar.   Aunque la intencion es buena, le faltan datos dentro de la skill para que pueda llegar a ser de gran uso a los usuarios. Sigue siendo de una app para consultas muy limitado. Saludos']
